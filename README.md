@@ -1,8 +1,8 @@
 ![I am sadikur-63](https://github.com/sadikur-63/sadikur-63/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h1 align="center">Hi 👋, I'm SADIKUR RAHMAN </h1>
+<h3 align="center">Programmer | Web Designer | Speed Learner</h3>
+
 
 <div align="center">
 
@@ -14,15 +14,14 @@ Skills: / PYTHON / HTML / CSS
 
 - 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning Golang, Java, C++
+- 🌱 I’m currently learning JavaScrift, Java, C++
 
 - 👨‍💻 All of my projects are available at [https://github.com/sadikur-63](https://github.com/sadikur-63)
 
 - 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **HTML, CSS, JS, Bootstrap**
 
-- 📫 How to reach me **programmerharun@gmail.com**
 
 - 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
 
