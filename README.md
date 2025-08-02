@@ -12,7 +12,7 @@ Skills: / PYTHON / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently student in [dogshin university] https://www.google.com/search?client=firefox-b-d&q=dongshin+university
 
 - 🌱 I’m currently learning JavaScrift, Java, C++
 
