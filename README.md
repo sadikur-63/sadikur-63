@@ -26,7 +26,8 @@ Skills: / PYTHON / HTML / CSS/Javascript/react
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://www.facebook.com/mdsadikur.rhaman/sadikur-63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
+<a href="" target="blank"><img [align="center]
+                            <a https://www.facebook.com/mdsadikur.rhaman.587" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/
 sadikur-rahman-48b845343
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadikur-63" height="30" width="40" /></a>
