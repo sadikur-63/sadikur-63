@@ -30,10 +30,7 @@ Skills: / PYTHON / HTML / CSS/Javascript/react
 <a href="www.linkedin.com/in/
 sadikur-rahman-48b845343
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadikur-63" height="30" width="40" /></a>
-<a href="https://codepen.io/sadikur-63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sadikur-63" height="30" width="40" /></a>
 <a href="https://instagram.com/sadikur-63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
-<a href="https://dribbble.com/sadikur-63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sadikur-63" height="30" width="40" /></a>
-<a href="https://www.behance.net/sadikur-63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="sadikur-63" height="30" width="40" /></a>
 </p>
 
 ## Use To Code
