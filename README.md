@@ -8,19 +8,17 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=sadikur-63&color=red)
 
-Skills: / PYTHON / HTML / CSS
+Skills: / PYTHON / HTML / CSS/Javascript/react
 
 </div>
 
 - 🔭 I’m currently student in [dogshin university] https://www.google.com/search?client=firefox-b-d&q=dongshin+university
 
-- 🌱 I’m currently learning JavaScrift, Java, C++
+- 🌱 I’m currently learning  Java, C+
 
 - 👨‍💻 All of my projects are available at [https://github.com/sadikur-63](https://github.com/sadikur-63)
 
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
-
-- 💬 Ask me about **HTML, CSS, JS, Bootstrap**
+- 💬 Ask me about **HTML, CSS, JS, TailwindCss**
 
 
 - 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
