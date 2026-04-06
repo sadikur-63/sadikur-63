@@ -1,18 +1,21 @@
 # Hi 👋, I'm SADIKUR RAHMAN
 
-## 💻 IT Student | Aspiring Cybersecurity Specialist
+## ☁️ IT Student | AWS & AI Automation Enthusiast
 
 🎓 I am currently studying IT at Dongshin University, South Korea  
-🚀 Interested in cybersecurity, cloud computing, and web development  
+🚀 Passionate about cloud computing, AI automation, and backend systems  
 
 ---
 
-## 🧠 Skills
+## 🧠 Skills & Learning
 
-- Programming: Java (learning), C++ (learning)
-- Web Development: HTML, CSS, JavaScript, React
-- Tools: Git, GitHub, VS Code
-- Cloud (Learning): AWS
+- ☁️ Cloud: AWS (learning & practicing)
+- 🤖 AI Automation: n8n, Zapier, LangChain
+- 💻 Programming: Java (learning), C++ (learning)
+- 🌐 Web: HTML, CSS, JavaScript, React
+- 🗄️ Database: SQL (learning & practice)
+- ⚙️ Concepts: Data Structures & Algorithms
+- 🐧 OS: Linux (command line practice)
 
 ---
 
@@ -22,11 +25,19 @@
 
 ---
 
+## 🔍 Current Focus
+
+- Building automation workflows using n8n & AI tools  
+- Learning AWS services for real-world applications  
+- Improving problem-solving with Data Structures & Algorithms  
+
+---
+
 ## 💬 Ask Me About
 
-- Web Development  
-- JavaScript  
-- React  
+- AWS basics & cloud learning  
+- AI automation tools (n8n, Zapier, LangChain)  
+- Web development (HTML, CSS, JavaScript, React)  
 
 ---
 
