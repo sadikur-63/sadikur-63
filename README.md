@@ -11,9 +11,9 @@
 
 - ☁️ Cloud: AWS (learning & practicing)
 - 🤖 AI Automation: n8n, Zapier, LangChain
-- 💻 Programming: Java (learning), C++ (learning)
+- 💻 Programming: Python,Java (learning), C++ (learning)
 - 🌐 Web: HTML, CSS, JavaScript, React
-- 🗄️ Database: SQL (learning & practice)
+- 🗄️ Database: SQL,postgresql (learning & practice)
 - ⚙️ Concepts: Data Structures & Algorithms
 - 🐧 OS: Linux (command line practice)
 
@@ -35,7 +35,7 @@
 
 ## 💬 Ask Me About
 
-- AWS basics & cloud learning  
+- AWS & cloud learning  
 - AI automation tools (n8n, Zapier, LangChain)  
 - Web development (HTML, CSS, JavaScript, React)  
 
